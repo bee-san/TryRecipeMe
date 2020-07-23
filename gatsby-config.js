@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `TryHackMe's Recipe Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `TryHackMe`,
+      summary: `TryHackMe goes brrrr`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `The official recipe blog for TryHackMe`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `realtryhackme`,
     },
   },
   plugins: [
