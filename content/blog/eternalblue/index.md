@@ -1,6 +1,6 @@
 ---
 title: smackhack's Eternal Blue Cocktail
-date: "2020-07-24T04:10:5.00Z"
+date: "2020-07-24T11:34:45.054Z"
 description: "It's a working recipe, I swear"
 ---
 *Disclaimer: Contains Alcohol*
