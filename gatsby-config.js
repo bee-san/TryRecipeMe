@@ -6,7 +6,7 @@ module.exports = {
       summary: `TryHackMe goes brrrr`,
     },
     description: `The official recipe blog for TryHackMe`,
-    siteUrl: `https://tryrecipe.me`,
+    siteUrl: `https://tryroast.me`,
     social: {
       twitter: `realtryhackme`,
     },
